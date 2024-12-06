@@ -111,7 +111,7 @@ function App() {
             </div>
           </div>
         ) : (
-          <div className="weather-info-placeholder text-black text-center mt-10"><br />
+          <div className="weather-info-placeholder text-white text-center mt-10">
             Enter a location to get weather details.
           </div>
         )}

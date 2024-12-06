@@ -1,3 +1,4 @@
+/* App.css */
 body, html {
   margin: 0;
   padding: 0;
@@ -11,11 +12,11 @@ body, html {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  color: rgb(57, 55, 55);
+  color: white;
 }
 
 .background {
-  background-image: url("assets/app.jpeg"); 
+  background-image: url("assets/Sky.jpeg");
   background-size: cover;
   background-position: center;
   height: 100%;
@@ -41,7 +42,7 @@ body, html {
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
-  background-color: rgba(20, 166, 192, 0.8);
+  background-color: rgba(255, 255, 255, 0.8);
   color: black;
   font-size: 1rem;
   cursor: pointer;
